@@ -10,6 +10,7 @@
 // @updateURL    https://raw.githubusercontent.com/zoubenjia/bilibili-auto-quality/main/bilibili-auto-quality.user.js
 // @downloadURL  https://raw.githubusercontent.com/zoubenjia/bilibili-auto-quality/main/bilibili-auto-quality.user.js
 // @icon         https://www.bilibili.com/favicon.ico
+// @license      MIT
 // @grant        unsafeWindow
 // @grant        GM_setValue
 // @grant        GM_getValue
