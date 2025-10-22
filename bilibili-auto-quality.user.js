@@ -7,6 +7,8 @@
 // @match        https://www.bilibili.com/video/*
 // @match        https://www.bilibili.com/bangumi/*
 // @match        https://live.bilibili.com/*
+// @updateURL    https://raw.githubusercontent.com/zoubenjia/bilibili-auto-quality/main/bilibili-auto-quality.user.js
+// @downloadURL  https://raw.githubusercontent.com/zoubenjia/bilibili-auto-quality/main/bilibili-auto-quality.user.js
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        unsafeWindow
 // @grant        GM_setValue
